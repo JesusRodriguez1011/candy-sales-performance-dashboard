@@ -23,11 +23,11 @@ This project analyzes candy sales performance using a dynamic Excel dashboard bu
 
 ## Key Findings
 
-## Revenue Concentration by Division
+### Revenue Concentration by Division
 
 The Chocolate division accounted for 92% of total revenue, indicating a high level of revenue concentration and potential risk if demand for chocolate products declines.
 
-## Revenue Concentration by Factory
+### Revenue Concentration by Factory
 
 Revenue generation is heavily concentrated in Lot's O' Nuts and Wicked Choccy's, while the remaining factories contribute only a small share of total revenue.
 
