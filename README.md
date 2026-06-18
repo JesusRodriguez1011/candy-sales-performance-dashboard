@@ -45,6 +45,6 @@ Management should investigate the operational halt at Sugar Shack (-100% MoM) to
 
 INSIGHTS PREVIEW
 
-!![Insights](Insights_v2.png)
+![Insights](Insights_v2.png)
 
 
