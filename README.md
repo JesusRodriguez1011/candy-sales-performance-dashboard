@@ -8,7 +8,7 @@ This project analyzes candy sales performance using a dynamic Excel dashboard bu
 - 10,195 sales records
 - Industry: Consumer Goods / Candy Sales
 
-##DASHBOARD PREVIEW
+###DASHBOARD PREVIEW
 
 ![Dashboard](Dashboard.png)
 
