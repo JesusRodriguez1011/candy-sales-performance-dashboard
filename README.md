@@ -1,4 +1,4 @@
-Candy Sales Performance Dashboard
+# Candy Sales Performance Dashboard
 Project Overview
 
 This project analyzes candy sales performance using a dynamic Excel dashboard built from a dataset containing 10,195 sales records. The dashboard provides a business-focused view of revenue performance, factory performance, product performance, and revenue concentration through KPI reporting and MoM/YoY comparisons.
