@@ -8,12 +8,10 @@ This project analyzes candy sales performance using a dynamic Excel dashboard bu
 - 10,195 sales records
 - Industry: Consumer Goods / Candy Sales
 
- Analysis Focus
-- Revenue Performance
-- Product Performance
-- Factory Performance
-- Revenue Concentration
-- MoM and YoY Revenue Comparisons
+DASHBOARD PREVIEW
+
+![Dashboard](Dashboard.png)
+
 
  Tools Used
 
@@ -28,13 +26,6 @@ This project analyzes candy sales performance using a dynamic Excel dashboard bu
 - TAKE
 - CHOOSECOLS
 - Conditional Formatting
-
-Key Performance Indicators (KPIs)
-
-- Total Revenue
-- Gross Margin %
-- Revenue vs Last Year (YoY)
-- Revenue vs Last Month (MoM)
 
 Key Findings
 
@@ -52,6 +43,8 @@ Management should implement targeted promotional campaigns or cross-selling init
 Factory Performance Investigation
 Management should investigate the operational halt at Sugar Shack (-100% MoM) to determine the root cause of the decline and assess opportunities to restore revenue contribution from the facility.
 
-DASHBOARD PREVIEW
-![Dashboard](Dashboard.png)
+INSIGHTS PREVIEW
+
+![Insights](Insights.png)
+
 
